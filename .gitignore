@@ -1,0 +1,14 @@
+# Python 运行时垃圾
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 环境变量/密钥 —— 永远别提交（第 10 章会用到）
+.env
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/

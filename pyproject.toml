@@ -1,0 +1,10 @@
+[project]
+name = "python-study"
+version = "0.1.0"
+description = "明月的 Python 学习项目"
+requires-python = ">=3.11"
+dependencies = []
+
+# 用到什么再加什么，例如：
+# numpy = ["numpy>=2"]
+# data = ["numpy", "pandas"]
